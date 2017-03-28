@@ -1,0 +1,13 @@
+{
+  "name": "slack-tweets",
+  "version": "1.0.0",
+  "description": "custom slack command that posts tweet",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Margo Lanier",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "tinyspeck": "^1.0.3"
+  }
+}
